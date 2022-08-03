@@ -7,6 +7,7 @@ namespace HotelListing.API.Repository
     {
         public HotelsRepository(HotelListingDbContext context) : base(context)
         {
+
         }
     }
 }
